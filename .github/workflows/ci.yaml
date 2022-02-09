@@ -1,4 +1,4 @@
-ame: ci-golang-worflow
+name: ci-golang-worflow
 on: [push]
 jobs:
   check-application:
